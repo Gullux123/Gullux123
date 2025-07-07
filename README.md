@@ -1,9 +1,9 @@
-## Hi, I'm Gulnaz 
+## Hi, I'm Gulnaz  🙌 
 
-Worked as an Assosciate Analyst in Deloitte USI <br/>
-Msc in Applied Data Science Student At SRM Ramapuram <br/>
-Bsc Computer Application Triple Major (Maths,Statistics,Computer) Graduate from Sacred Heart College Thevara <br/>
-Interested in Becoming an Data Scientist
+🏢 Worked as an Assosciate Analyst in Deloitte USI <br/>
+📋 Msc in Applied Data Science Student At SRM Ramapuram <br/>
+📕 Bsc Computer Application Triple Major (Maths,Statistics,Computer) Graduate from Sacred Heart College Thevara <br/>
+📊 Interested in Becoming an Data Scientist
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulnaz-parween7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khatungulnaz123@gmail.com) 
